@@ -1,0 +1,22 @@
+{
+  "name": "Dr. Ethan — Weekly Planner",
+  "short_name": "Dr. Ethan",
+  "description": "Personal AI-powered weekly planner and scheduler",
+  "start_url": "./weekly-planner__10_.html",
+  "display": "standalone",
+  "background_color": "#1a1f2e",
+  "theme_color": "#1a1f2e",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' fill='%231a1f2e'/><polygon points='96,20 160,56 160,136 96,172 32,136 32,56' fill='%233b4961' stroke='%23576884' stroke-width='4'/><polygon points='96,44 136,67 136,113 96,136 56,113 56,67' fill='none' stroke='%23a6a39d' stroke-width='2' opacity='0.5'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' fill='%231a1f2e'/><polygon points='256,48 432,148 432,348 256,448 80,348 80,148' fill='%233b4961' stroke='%23576884' stroke-width='8'/><polygon points='256,112 368,176 368,304 256,368 144,304 144,176' fill='none' stroke='%23a6a39d' stroke-width='4' opacity='0.5'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
